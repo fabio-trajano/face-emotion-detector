@@ -1,8 +1,5 @@
-numpy
-opencv-python
 tensorflow
-keras
-scikit-learn
-matplotlib
-flask
-streamlit
+torch
+opencv-python
+fer
+moviepy==1.0.3
